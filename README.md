@@ -26,7 +26,7 @@ SessionStorage kullanmamdaki maksat site kapatıldığında token silinmesini is
 ## Uygulama içi görüntüler
 ![](app_images\raporlar.PNG)
 
-![](app_images\raporDetay.PNG)
+![](app_images/raporDetay.PNG)
 
 ![](app_images\raporKaydet.PNG)
 

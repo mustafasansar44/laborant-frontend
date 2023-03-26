@@ -16,7 +16,9 @@ Uygulamayı çalıştırabilmek için aşağıdaki adımları sırayla gerçekle
 
 ```
 
-Hastaların durumunu sisteme kayıt edebildiğiniz, hastaların durumunu detaylı olarak gözlemleyebildiğiniz veya laborantlarla ilgili aksiyonları (kısaca CRUD) gerçekleştirebildiğiniz bir uygulama. 
+Hastaların durumunu sisteme kayıt edebildiğiniz, hastaların durumunu detaylı olarak 
+gözlemleyebildiğiniz veya laborantlarla ilgili aksiyonları (kısaca CRUD) 
+gerçekleştirebildiğiniz bir uygulama. 
 
 Backend OAuth2 kullandığım için login olunca API'den gelen tokeni sessionStorage'e aktarır. 
 SessionStorage kullanmamdaki maksat site kapatıldığında token silinmesini istiyorum.
@@ -24,11 +26,11 @@ SessionStorage kullanmamdaki maksat site kapatıldığında token silinmesini is
 ```
 
 ## Uygulama içi görüntüler
-![](app_images\raporlar.PNG)
+![](app_images/raporlar.PNG)
 
 ![](app_images/raporDetay.PNG)
 
-![](app_images\raporKaydet.PNG)
+![](app_images/raporKaydet.PNG)
 
 
 ## Kalan görevler
